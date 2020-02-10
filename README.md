@@ -1,6 +1,6 @@
-# simple
+# Simple Interest Calculator
 
-A new Flutter project.
+A new Flutter project. Simple Interest Calculator, Simple interest is money you can earn by initially investing some money (the principal). A percentage (the interest) of the principal is added to the principal, making your initial investment grow!
 
 ## Getting Started
 
